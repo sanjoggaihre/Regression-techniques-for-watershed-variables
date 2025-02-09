@@ -9,7 +9,7 @@ After applying Hyperparameter tuning to the Random Forest Regressor, the model's
 
 ![Screenshot 2025-02-09 203920](https://github.com/user-attachments/assets/8d4d19d8-9e00-49d6-82f9-455ecf63124e)
 
-Furthermore, MLPRegressor from sklearn is also used to train the model, which resulted in an RMSE of approzimately **5.21943**
+Furthermore, MLPRegressor from sklearn is also used to train the model, which resulted in an RMSE of approximately **5.21943**
 
 ![Screenshot 2025-02-09 203920](https://github.com/user-attachments/assets/17f910f5-faec-4b90-a5b3-3f017f5b9233)
 
